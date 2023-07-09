@@ -1,2 +1,6 @@
-# LeetCode
-My solving record for LeetCode
+LeetCode
+========
+### LeetCode Algorithm
+
+| # | Title | Solution | Difficulty |
+|---| ----- | -------- | ---------- |
